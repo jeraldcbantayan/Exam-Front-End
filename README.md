@@ -1,3 +1,11 @@
+
+
+For the calculator to work 
+1. cd into the "Exam-Front-End" and type "npm install"
+2. then type  "npm start"
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
